@@ -41,7 +41,7 @@
     "@storybook/addon-actions": "^5.3.18",
     "@storybook/addon-links": "^5.3.18",
     "@storybook/addons": "^5.3.18",
-    "@storybook/html": "^5.3.18",
+    "@storybook/html": "^9.1.1",
     "@types/chai": "^4.2.11",
     "@types/mocha": "^7.0.2",
     "@types/react": "^16.9.35",
